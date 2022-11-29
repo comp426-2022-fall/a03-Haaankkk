@@ -1,0 +1,25 @@
+{
+  "name": "node-dice",
+  "version": "1.0.0",
+  "description": "426-a3-Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a03-Haaankkk.git"
+  },
+  "keywords": [
+    "a03"
+  ],
+  "author": "Haaankkk",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a03-Haaankkk/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a03-Haaankkk#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
